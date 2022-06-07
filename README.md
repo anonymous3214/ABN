@@ -2,7 +2,7 @@
 
 Anonymous repository for Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration (ABN). This repository contains the implementation of ABN.
 
-![ABN_architecture](./abn_architecture.png)
+![ABN_architecture](./abn.png)
 
 ## File listing
 
